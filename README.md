@@ -1,4 +1,6 @@
-# flutter2
+# donateplasma
+
+[![Actions Status](https://github.com/teamtigers/donate_plasma/workflows/flutter-driver/badge.svg)](https://github.com/TeamTigers/donate_plasma/runs/816041523?check_suite_focus=true)
 
 A new Flutter application.
 
